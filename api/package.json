@@ -1,0 +1,19 @@
+{
+  "name": "trabalho_a2",
+  "version": "1.0.0",
+  "description": "Trabalho de ESE",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gusjfy/trabalho_a2.git"
+  },
+  "author": "Gusjfy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gusjfy/trabalho_a2/issues"
+  },
+  "homepage": "https://github.com/Gusjfy/trabalho_a2#readme"
+}
